@@ -140,22 +140,3 @@ if (selected == 'Attrition Prediction'):
           Attrition_pred = 'The person will stay in company'
         
     st.success(Attrition_pred)
-
-
-# In[2]:
-
-
-pip install streamlit
-
-
-# In[4]:
-
-
-pip install pickle-mixin
-
-
-# In[3]:
-
-
-pip install option_menu
-
