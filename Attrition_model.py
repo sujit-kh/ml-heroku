@@ -7,6 +7,9 @@
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
+import xgboost
+from xgboost import XGBClassifier  #Import packages related to Model
+
 
 
 # loading the saved models
